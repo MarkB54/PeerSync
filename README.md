@@ -1,6 +1,6 @@
 # PeerSync - P2P File Sharing System
 
-A robust peer-to-peer file-sharing application built with Python, featuring UDP/TCP communication, multithreaded architecture, and real-time heartbeat monitoring.
+A peer-to-peer file-sharing application built with Python, featuring UDP/TCP communication, multithreaded architecture, and real-time heartbeat monitoring.
 
 ## 🚀 Features
 
