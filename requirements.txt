@@ -1,0 +1,13 @@
+# PeerSync Dependencies
+# Core functionality uses only Python standard library
+
+# Development Dependencies
+pytest>=7.0.0              # Testing framework
+pytest-cov>=4.0.0          # Test coverage
+black>=22.0.0              # Code formatting
+pylint>=2.15.0             # Linting
+mypy>=0.990                # Type checking
+
+tqdm>=4.65.0               # Progress bars for file transfers
+colorama>=0.4.6            # Colored terminal output
+pyyaml>=6.0                # Configuration file support
